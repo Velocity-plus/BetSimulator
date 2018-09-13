@@ -3,6 +3,7 @@ A betting simulator, if you doing automatic betting Martin Gale method.
 
 # How-To-Use:
 Open the .py file and in the beginning of the file, you will see:
+
 """ Settings """
 Bankroll     = "0.00033300$"
 Starting_Bet = "0.00000002$"
